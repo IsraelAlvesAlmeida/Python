@@ -24,7 +24,7 @@ O custo é calculado multiplicando o consumo mensal pelo valor fixo de **R$ 0,75
 
 ## ▶️ Como executar
 1. Instale o Python (versão 3 ou superior).
-2. Baixe o arquivo `consumo.py`.
+2. Baixe o arquivo `app.py`.
 3. Execute no terminal:
    ```bash
-   python consumo.py
+   python app.py
